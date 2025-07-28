@@ -1,0 +1,12 @@
+#language: pt 
+#autor: Nuno Maia 
+
+Funcionalidade: Formulario
+
+@web
+Cenario: validar um login 
+    Dado que estou na aplicação
+    e clico no botão x
+    e preencho o campo y
+    Então eu entro
+    
